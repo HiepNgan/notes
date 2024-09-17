@@ -30,4 +30,3 @@
 
 - 🎉 This is a celebration emoji!
 - 🐱‍👓 Here’s a cool cat emoji.
-- 🚀 Rocket emoji for launch!
